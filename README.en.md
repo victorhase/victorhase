@@ -3,10 +3,9 @@
 </p>
 
 
-  🇧🇷 [`pt`](https://github.com/victorhase/victorhase)
-  🇺🇸 [`eng`](https://github.com/victorhase/victorhase/blob/main/README.en.md)
-  🇪🇸 [`es`](https://github.com/victorhase/victorhase/blob/main/README.es.md)
-[`api-financeira`](https://github.com/victorhase/api-financeira-node-nestjs-mongodb)
+  [`🇧🇷 Português`](https://github.com/victorhase/victorhase)
+  [`🇺🇸 English`](https://github.com/victorhase/victorhase/blob/main/README.en.md)
+  [`🇪🇸 Espanhol`](https://github.com/victorhase/victorhase/blob/main/README.es.md)
 
 
 
