@@ -9,6 +9,13 @@ Sou engenheiro de software apaixonado por **Node.js**, **NestJS** e arquitetura 
 💬 Gosto de construir soluções escaláveis e fáceis de manter  
 🌍 Português 🇧🇷 | Inglês 🇺🇸 | Espanhol 🇪🇸  
 
+<details>
+  <summary>📈 Estatísticas GitHub</summary>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=victorhase&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhase&layout=compact&langs_count=8" />
+</details>
+
 ## 🚀 Tecnologias
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
