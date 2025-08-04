@@ -2,11 +2,12 @@
 
 Sou engenheiro de software apaixonado por **Node.js**, **NestJS** e arquitetura de software moderna. Desde minha transição para Node em 2018, tenho trabalhado em projetos que exigem APIs bem estruturadas, mensageria assíncrona e integração com sistemas externos. Acredito que documentação clara e testes automatizados são fundamentais para projetos de qualidade.
 
-## 💡 Sobre mim
+## 🧑‍💻 Sobre mim
 
-- **Experiência**: desenvolvimento de back‑ends escaláveis com foco em performance e manutenabilidade. Costumo aplicar Clean Architecture para separar responsabilidades e facilitar testes.
-- **Interesses**: microserviços, comunicação via filas (RabbitMQ, Kafka), integração com provedores de pagamento e autenticação (OAuth2, JWT), uso de bancos de dados relacionais e não relacionais.
-- **Idiomas**: Português (nativo), Inglês e Espanhol.
+🎓 Engenheiro de Software desde 2008  
+🧠 Atuo com Node.js desde 2018 | Clean Architecture, NestJS, Mongo/PostgreSQL  
+💬 Gosto de construir soluções escaláveis e fáceis de manter  
+🌍 Português 🇧🇷 | Inglês 🇺🇸 | Espanhol 🇪🇸  
 
 ## 🚀 Tecnologias
 
