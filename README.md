@@ -51,3 +51,10 @@ Sou engenheiro de software apaixonado por **Node.js**, **NestJS** e arquitetura 
 [LinkedIn](https://linkedin.com/in/___) · e‑mail: ___@gmail.com
 
 Fique à vontade para entrar em contato para oportunidades, projetos open source ou apenas trocar ideias sobre software!
+
+
+---
+
+<p align="center">
+Feito com ❤️ por Victor Hase
+</p>
