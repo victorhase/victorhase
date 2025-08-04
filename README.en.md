@@ -3,7 +3,7 @@
 </p>
 
 
-  [`🇧🇷 Português`](https://github.com/victorhase/victorhase)
+  [`🇧🇷 Português`](https://github.com/victorhase)
   [`🇺🇸 English`](https://github.com/victorhase/victorhase/blob/main/README.en.md)
   [`🇪🇸 Espanhol`](https://github.com/victorhase/victorhase/blob/main/README.es.md)
 
