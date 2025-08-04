@@ -16,6 +16,9 @@ Sou engenheiro de software apaixonado por **Node.js**, **NestJS** e arquitetura 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhase&layout=compact&langs_count=8" />
 </details>
 
+
+
+
 ## 🚀 Tecnologias
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
@@ -33,7 +36,14 @@ Sou engenheiro de software apaixonado por **Node.js**, **NestJS** e arquitetura 
 - **Integração com serviços**: pagamentos online, autenticação via OAuth2, cache com Redis e filas de mensageria.
 - **Docker e deploys**: criação de ambientes de desenvolvimento e produção com Docker, docker‑compose e CI/CD.
 
-## 📌 Repositórios em destaque
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [`api-financeira`](https://github.com/victorhase/api-financeira-node-nestjs-mongodb) | API RESTful para controle financeiro pessoal | NestJS · MongoDB · Swagger |
+| [`nestjs-clean-arch`](https://github.com/victorhase/nestjs-clean-architecture-boilerplate) | Boilerplate com estrutura DDD + Clean Architecture | NestJS · PostgreSQL · JWT |
+
 
 
 ## 📫 Contato
