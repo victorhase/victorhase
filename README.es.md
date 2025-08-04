@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🌍 [Português 🇧🇷](https://github.com/victorhase/victorhase/blob/main/README.md) | [Inglês 🇺🇸](https://github.com/victorhase/victorhase/blob/main/README.en.md) | [Espanhol 🇪🇸](https://github.com/victorhase/victorhase/blob/main/README.es.md)
+  🌍 [Português 🇧🇷](README.md) | [Inglês 🇺🇸](README.en.md) | [Espanhol 🇪🇸](README.es.md)
 </p>
 
 
@@ -16,15 +16,15 @@
 
 # 👋 Hola, soy Victor Hase =)
 
-Sou engenheiro de software apaixonado por **Node.js**, **NestJS** e arquitetura de software moderna. Desde minha transição para Node em 2018, tenho trabalhado em projetos que exigem APIs bem estruturadas, mensageria assíncrona e integração com sistemas externos. Acredito que documentação clara e testes automatizados são fundamentais para projetos de qualidade.
+Soy ingeniero de software apasionado por **Node.js**, **NestJS** y arquitectura de software moderna. Desde mi transición a Node en 2018, he trabajado en proyectos que requieren APIs bien estructuradas, mensajería asíncrona e integración con sistemas externos. Creo que la documentación clara y las pruebas automatizadas son fundamentales para proyectos de calidad.
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
 🎓 Ingeniero de software desde 2008  
-🧠 Node.js desde 2018 | Clean Architecture, NestJS, Mongo/PostgreSQL  
-💬 Soluciones escalables y mantenibles  
+🧠 Node.js desde 2018 | Clean Architecture, NestJS, MongoDB/PostgreSQL  
+💬 Soluciones escalables y fáciles de mantener  
 🌍 Portugués 🇧🇷 | Inglés 🇺🇸 | Español 🇪🇸  
 
 ---
@@ -43,19 +43,19 @@ Sou engenheiro de software apaixonado por **Node.js**, **NestJS** e arquitetura 
 ## 🧠 Habilidades
 
 - **APIs REST y GraphQL**: Swagger / OpenAPI.
-- **Arquitectura limpia**: domínio, aplicação e infraestrutura bem separadas.
-- **Pruebas automatizadas**: Jest e cobertura com CI.
+- **Arquitectura limpia**: capas bien separadas de dominio, aplicación e infraestructura.
+- **Pruebas automatizadas**: Jest y cobertura con CI.
 - **Integración con servicios**: OAuth2, Redis, RabbitMQ.
-- **Docker y despliegues**: docker-compose e pipelines de CI/CD.
+- **Docker y despliegues**: docker-compose y pipelines de CI/CD.
 
 ---
 
 ## 📌 Proyectos Destacados
 
-| Projeto | Descrição | Tecnologías |
-|--------|-----------|-------------|
-| [`api-financeira`](https://github.com/victorhase/api-financeira-node-nestjs-mongodb) | API RESTful para controle financeiro pessoal | NestJS · MongoDB · Swagger |
-| [`nestjs-clean-arch`](https://github.com/victorhase/nestjs-clean-architecture-boilerplate) | Boilerplate com estrutura DDD + Clean Architecture | NestJS · PostgreSQL · JWT |
+| Proyecto | Descripción | Tecnologías |
+|--------|-------------|-------------|
+| [`api-financeira`](https://github.com/victorhase/api-financeira-node-nestjs-mongodb) | API RESTful para gestión financiera personal | NestJS · MongoDB · Swagger |
+| [`nestjs-clean-arch`](https://github.com/victorhase/nestjs-clean-architecture-boilerplate) | Boilerplate con estructura DDD + Clean Architecture | NestJS · PostgreSQL · JWT |
 
 ---
 
@@ -73,7 +73,7 @@ Sou engenheiro de software apaixonado por **Node.js**, **NestJS** e arquitetura 
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulink)
-✉️ Correo electrónico: seu@email.com
+✉️ Correo electrónico: tu@email.com
 
 ---
 
