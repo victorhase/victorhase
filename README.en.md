@@ -75,7 +75,7 @@ I'm a software engineer passionate about **Node.js**, **NestJS**, and modern sof
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulink)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhase)
 ✉️ Email: your@email.com
 
 ---
