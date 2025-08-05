@@ -75,8 +75,8 @@ Soy ingeniero de software apasionado por **Node.js**, **NestJS** y arquitectura 
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulink)
-✉️ Correo electrónico: tu@email.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhase)
+
 
 ---
 
